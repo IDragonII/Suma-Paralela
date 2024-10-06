@@ -1,0 +1,9 @@
+2024-10-06 11:51:59,543 - Proceso 5: Suma parcial de IDs 500001 a 625000 = 6297290 - Correcto. Tiempo: 3.1164 segundos
+2024-10-06 11:51:59,559 - Proceso 6: Suma parcial de IDs 625001 a 750000 = 6294353 - Correcto. Tiempo: 3.0964 segundos
+2024-10-06 11:51:59,570 - Proceso 8: Suma parcial de IDs 875001 a 1000000 = 6311096 - Correcto. Tiempo: 3.0808 segundos
+2024-10-06 11:51:59,582 - Proceso 7: Suma parcial de IDs 750001 a 875000 = 6313226 - Correcto. Tiempo: 3.1137 segundos
+2024-10-06 11:51:59,595 - Proceso 4: Suma parcial de IDs 375001 a 500000 = 6300364 - Correcto. Tiempo: 3.1736 segundos
+2024-10-06 11:51:59,597 - Proceso 3: Suma parcial de IDs 250001 a 375000 = 6318300 - Correcto. Tiempo: 3.1789 segundos
+2024-10-06 11:51:59,743 - Proceso 2: Suma parcial de IDs 125001 a 250000 = 6307101 - Correcto. Tiempo: 3.3265 segundos
+2024-10-06 11:51:59,891 - Proceso 1: Suma parcial de IDs 1 a 125000 = 6324198 - Correcto. Tiempo: 3.4909 segundos
+2024-10-06 11:52:02,591 - Suma total de los 1000000 números: 50465928 (con 0 errores)

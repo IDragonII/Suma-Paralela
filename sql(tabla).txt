@@ -1,0 +1,7 @@
+CREATE DATABASE paralel_suma;
+USE paralel_suma;
+
+CREATE TABLE numeros (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    numero INT
+);
