@@ -7,3 +7,42 @@
 2024-10-06 11:51:59,743 - Proceso 2: Suma parcial de IDs 125001 a 250000 = 6307101 - Correcto. Tiempo: 3.3265 segundos
 2024-10-06 11:51:59,891 - Proceso 1: Suma parcial de IDs 1 a 125000 = 6324198 - Correcto. Tiempo: 3.4909 segundos
 2024-10-06 11:52:02,591 - Suma total de los 1000000 números: 50465928 (con 0 errores)
+2024-10-06 21:28:37,888 - Proceso 3: Error al procesar IDs 250001 a 375000 - Error simulado de conexión a la base de datos.
+2024-10-06 21:28:37,889 - Proceso 3: Error al procesar IDs 250001 a 375000 - Error simulado de conexión a la base de datos.
+2024-10-06 21:28:37,891 - Proceso 3: Error al procesar IDs 250001 a 375000 - Error simulado de conexión a la base de datos.
+2024-10-06 21:28:37,892 - Proceso 4: Error al procesar IDs 375001 a 500000 - Error simulado de conexión a la base de datos.
+2024-10-06 21:28:37,893 - Proceso 4: Error al procesar IDs 375001 a 500000 - Error simulado de conexión a la base de datos.
+2024-10-06 21:28:37,897 - Proceso 4: Error al procesar IDs 375001 a 500000 - Error simulado de conexión a la base de datos.
+2024-10-06 21:28:37,899 - Proceso 5: Error al procesar IDs 500001 a 625000 - Error simulado de conexión a la base de datos.
+2024-10-06 21:28:37,900 - Proceso 5: Error al procesar IDs 500001 a 625000 - Error simulado de conexión a la base de datos.
+2024-10-06 21:28:37,902 - Proceso 5: Error al procesar IDs 500001 a 625000 - Error simulado de conexión a la base de datos.
+2024-10-06 21:28:37,905 - Proceso 6: Error al procesar IDs 625001 a 750000 - Error simulado de conexión a la base de datos.
+2024-10-06 21:28:37,905 - Proceso 6: Error al procesar IDs 625001 a 750000 - Error simulado de conexión a la base de datos.
+2024-10-06 21:28:39,897 - Proceso 2: Suma parcial de IDs 125001 a 250000 = 6307101 - Correcto. Tiempo: 2.0100 segundos
+2024-10-06 21:28:39,957 - Proceso 8: Suma parcial de IDs 875001 a 1000000 = 6311096 - Correcto. Tiempo: 2.0237 segundos
+2024-10-06 21:28:39,971 - Proceso 7: Suma parcial de IDs 750001 a 875000 = 6313226 - Correcto. Tiempo: 2.0646 segundos
+2024-10-06 21:28:40,214 - Proceso 6: Suma parcial de IDs 625001 a 750000 = 6294353 - Correcto. Tiempo: 2.3091 segundos
+2024-10-06 21:28:40,254 - Proceso 1: Suma parcial de IDs 1 a 125000 = 6324198 - Correcto. Tiempo: 2.3680 segundos
+2024-10-06 21:28:44,985 - Suma total de los 1000000 números: 31549974 (con 3 errores)
+2024-10-06 21:29:03,137 - Proceso 5: Error al procesar IDs 500001 a 625000 - Error simulado de conexión a la base de datos.
+2024-10-06 21:29:03,145 - Proceso 6: Error al procesar IDs 625001 a 750000 - Error simulado de conexión a la base de datos.
+2024-10-06 21:29:03,161 - Proceso 6: Error al procesar IDs 625001 a 750000 - Error simulado de conexión a la base de datos.
+2024-10-06 21:29:03,161 - Proceso 6: Error al procesar IDs 625001 a 750000 - Error simulado de conexión a la base de datos.
+2024-10-06 21:29:03,164 - Proceso 8: Error al procesar IDs 875001 a 1000000 - Error simulado de conexión a la base de datos.
+2024-10-06 21:29:03,632 - Proceso 4: Suma parcial de IDs 375001 a 500000 = 6300364 - Correcto. Tiempo: 0.4985 segundos
+2024-10-06 21:29:03,763 - Proceso 3: Suma parcial de IDs 250001 a 375000 = 6318300 - Correcto. Tiempo: 0.6566 segundos
+2024-10-06 21:29:03,932 - Proceso 5: Suma parcial de IDs 500001 a 625000 = 6297290 - Correcto. Tiempo: 0.7946 segundos
+2024-10-06 21:29:04,066 - Proceso 7: Suma parcial de IDs 750001 a 875000 = 6313226 - Correcto. Tiempo: 0.9148 segundos
+2024-10-06 21:29:04,257 - Proceso 8: Suma parcial de IDs 875001 a 1000000 = 6311096 - Correcto. Tiempo: 1.0933 segundos
+2024-10-06 21:29:04,391 - Proceso 2: Suma parcial de IDs 125001 a 250000 = 6307101 - Correcto. Tiempo: 1.2859 segundos
+2024-10-06 21:29:04,543 - Proceso 1: Suma parcial de IDs 1 a 125000 = 6324198 - Correcto. Tiempo: 1.4445 segundos
+2024-10-06 21:29:14,658 - Suma total de los 1000000 números: 44171575 (con 1 errores)
+2024-10-06 21:33:39,926 - Proceso 4: Suma parcial de IDs 375001 a 500000 = 6300364 - Correcto. Tiempo: 0.4590 segundos
+2024-10-06 21:33:39,979 - Proceso 3: Suma parcial de IDs 250001 a 375000 = 6318300 - Correcto. Tiempo: 0.5287 segundos
+2024-10-06 21:33:40,613 - Proceso 6: Suma parcial de IDs 625001 a 750000 = 6294353 - Correcto. Tiempo: 1.1303 segundos
+2024-10-06 21:33:40,739 - Proceso 2: Suma parcial de IDs 125001 a 250000 = 6307101 - Correcto. Tiempo: 1.2949 segundos
+2024-10-06 21:33:40,866 - Proceso 7: Suma parcial de IDs 750001 a 875000 = 6313226 - Correcto. Tiempo: 1.3576 segundos
+2024-10-06 21:33:40,904 - Proceso 5: Suma parcial de IDs 500001 a 625000 = 6297290 - Correcto. Tiempo: 1.4346 segundos
+2024-10-06 21:33:41,014 - Proceso 8: Suma parcial de IDs 875001 a 1000000 = 6311096 - Correcto. Tiempo: 1.4927 segundos
+2024-10-06 21:33:41,102 - Proceso 1: Suma parcial de IDs 1 a 125000 = 6324198 - Correcto. Tiempo: 1.6766 segundos
+2024-10-06 21:33:47,976 - Suma total de los 1000000 números: 50465928 (con 0 errores)
